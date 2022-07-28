@@ -1,0 +1,16 @@
+Student's Information System:
+Create a student information system
+Order them by first_name
+Use a linked list
+Each node or object is a student containing name(first and last), roll(unique), marks and grade.
+Roll no is generated in order of admission
+Operations:
+	To add a student's records(roll, name, marks, grade)
+	To delete a student's record
+	To search a student's record based on their first, last name and roll
+	To modify a student's record (e.g marks or name)
+The linked list needs to be saved in a file.
+Operation records are nedded to be saved in a log file with operation name and time stamp
+The deleted records are to be stored in a stack such that the deleted operations can be undone
+Design whole stuff in java swing such that it is interactive and beautiful
+No restrictions on the layout.
